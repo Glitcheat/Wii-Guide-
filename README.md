@@ -1,4 +1,4 @@
-# Wii-Guide
+# Wii Hacks Guide
 A guide to hack the Wii.
 If you want to hack your Wii, read this tutorial, and read and perform each stapes correctly. 
 If you hack your Wii, you will be able to :
