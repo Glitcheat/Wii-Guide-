@@ -7,6 +7,7 @@ If you hack your Wii, you will be able to :
 - See/Listen music and movies on SD or data key
 
 Step I - Get started
+
 Go in "Tutorials" directory in the Wii-Guide and choose the tutorial for your version.
 Note : Ignore the version, it's not important.
 Note (2) : You will be able to see this step in other tutorials of this guide, and you can ignore this if you have already read it.
